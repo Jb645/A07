@@ -1,0 +1,14 @@
+body{
+    margin: 0 auto;
+}
+.extra h1{
+    font-size: 30px;
+    font-weight: bold;
+    color: gainsboro;
+    font-family: sans-serif;
+
+}
+.extra{
+    background-color: grey;
+    padding: 10px;
+}
